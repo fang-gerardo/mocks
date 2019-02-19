@@ -1,23 +1,23 @@
 {
   "empl": {
-   "evaluatedDate": "2012-04-23 00.00.00.000000",
-     "evaluatedCompetencies": [
-        {
-            "name": "mai communication competency",
-            "rating": "strong",
-            "comment": "sugar"
-        },
-        {
-            "name": "mai technical competency",
-            "rating": "below strong",
-            "comment": "we're going"
-        },
-        {
-            "name": "mai mentoring competency",
-            "rating": "below strong",
-            "comment": "down"
-        }
-    ]
+"evaluatedDate": "2012-04-23 00:00:00.000000",
+"evaluatedCompetencies": [
+{
+"name": "mai communication competency",
+"rating": "strong",
+"comment": "sugar"
+},
+{
+"name": "mai technical competency",
+"rating": "below strong",
+"comment": "we're going"
+},
+{
+"name": "mai mentoring competency",
+"rating": "below strong",
+"comment": "down"
+}
+]
 },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
