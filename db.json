@@ -1,23 +1,7 @@
 {
    "empl":{
       "evaluatedDate":"2012-04-23 00:00:00.000000",
-      "evaluatedCompetencies":[
-         {
-            "name":"Competency1",
-            "rating":"strong",
-            "comment":"example text"
-         },
-         {
-            "name":"Competency2",
-            "rating":"above strong",
-            "comment":"example text"
-         },
-         {
-            "name":"Competency3",
-            "rating":"below strong",
-            "comment":"example text"
-         }
-      ]
+      "evaluatedCompetencies":[]
    },
    "comments":[
       {
