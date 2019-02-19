@@ -1,8 +1,6 @@
 {
   "empl": {
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+   "evaluatedDate": "2012-04-23 00.00.00.000000"
 },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
